@@ -1,2 +1,3 @@
 # Design Pattern
-Language Java
+Factory Lab Assignment
+
