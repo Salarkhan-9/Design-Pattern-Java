@@ -1,5 +1,5 @@
 public class Circle implements Shape{
     public void draw() {
-        System.out.println("Circle Shape is drawn");
+        System.out.println("Circle Shape is drawn ");
     }
 }
