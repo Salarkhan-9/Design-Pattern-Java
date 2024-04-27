@@ -21,5 +21,11 @@ public class Main {
         //call draw method of Shape Square
         shape4.draw();
 
+        Shape shape5 = shapeFactory1.getShape("Triangle");
+        //call draw method of Shape Square
+        shape5.draw();
+
+
+
     }
 }
